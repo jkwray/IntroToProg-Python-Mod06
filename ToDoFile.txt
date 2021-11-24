@@ -1,0 +1,5 @@
+Call vet, high
+Prep dinner, medium
+Walk dogs, high
+Deposit Check, low
+sleep, medium
